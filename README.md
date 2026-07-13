@@ -151,13 +151,6 @@ A backend system focused on:
 
 ---
 
-## GitHub Stats
-
-![Kirtan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kirtanmalviya&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirtanmalviya&layout=compact&hide_border=true)
-
----
-
 ## Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/kirtan-malviya](https://www.linkedin.com/in/kirtan-malviya/)
